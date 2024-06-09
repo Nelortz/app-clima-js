@@ -1,4 +1,4 @@
-# JavaScript: Aplicación de Clima
+# JavaScript: Aplicación del Clima
 
 Link para ver el resultado: [APLICACION DEL CLIMA](https://js-clima-app.netlify.app/)
 
